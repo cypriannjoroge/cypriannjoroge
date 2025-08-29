@@ -4,7 +4,7 @@
 💻 Passionate about building scalable web apps, clean UI, and data-driven solutions.  
 
 # 💫 About Me:
-🔭 Currently building modern web applications with Laravel, Vue.js, and Tailwind CSS.<br>🌱 Learning DevOps tools, Cloud Platforms ( Supabase), and<br>🛠 Experienced with HTML5, CSS, PHP, JavaScript, Python, R, and UI design.<br>📊 Interested in data visualization and machine learning for real-world insights.<br>🌐 Portfolio: https://njoro-dev.vercel.app/
+🔭 Currently building modern web applications with Laravel, Vue.js, and Tailwind CSS.<br>🌱 Learning DevOps tools, Cloud Platforms ( Supabase, MySQL)🛠 Experienced with HTML5, CSS, PHP, JavaScript, Python, R, and UI design.<br>📊 Interested in data visualization and machine learning for real-world insights.<br>🌐 Portfolio: https://njoro-dev.vercel.app/
 
 
 ## 🌐 Socials:
